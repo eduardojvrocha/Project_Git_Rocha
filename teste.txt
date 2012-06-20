@@ -1,5 +1,8 @@
 teste
 
+Lalalalala
+
+
 testes
 
 
@@ -7,21 +10,15 @@ Eduardo Souza testandooo
 
 
 haeuihoaieuhoiauehoiuahe
-<<<<<<< HEAD
+
 aeiuhoaieuhoiauhekk
 kk
 kk
 kk
-iouaheiouha
-=======
-aeiuhoaieuhkk
-kk
-kk
-kk
 oiauheiouaheiouha
->>>>>>> teste
-aieuhoaiuehioauheoiuaheoi
 
-Eduardo claudio Jefferson Teste Bqrba
+aieuhoakkkkkkkkkkkkkkkiuehioauheoiuaheoi
+
+teste Eduardo claudio Jefferson Teste Bqrba
 
 Eduardo
