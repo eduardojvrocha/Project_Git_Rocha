@@ -7,11 +7,19 @@ Eduardo Souza testandooo
 
 
 haeuihoaieuhoiauehoiuahe
+<<<<<<< HEAD
 aeiuhoaieuhoiauhekk
 kk
 kk
 kk
 iouaheiouha
+=======
+aeiuhoaieuhkk
+kk
+kk
+kk
+oiauheiouaheiouha
+>>>>>>> teste
 aieuhoaiuehioauheoiuaheoi
 
 Eduardo claudio Vieira Borba
